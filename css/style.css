@@ -205,10 +205,14 @@ header{
     border: 1px solid white;
     margin-right: 5px;
     border-radius: 5px;
+}
+.fa.fa-search-plus{
     color: white;
 }
 
-
+.fa.fa-link{
+    color: white;
+}
 
 .contact{
     width: 100%;
